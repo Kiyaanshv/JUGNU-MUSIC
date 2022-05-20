@@ -1,4 +1,4 @@
-# Hi, I'm Kabir! 👋
+# Hi, I'm storm! 👋
 
 I'm a Discord Bot Developer and here is mine Discord Music Bot
 
